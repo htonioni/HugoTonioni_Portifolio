@@ -1,3 +1,4 @@
+import "../styles/NavBar.css"
 function NavBar() {
     return (
         <nav>
@@ -9,7 +10,7 @@ function NavBar() {
                 <li><a href="#about-me">about me</a></li>
                 <li><a href="#contact">contact</a></li>
             </ul>
-            <button>dark mode.</button>
+            <button onClick={() => {alert("not yet implemented")}}>dark mode.</button>
         </nav>
     )
 }
