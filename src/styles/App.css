@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Manrope:wght@200..800&display=swap');
+
+.centerText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: #f5f515; */
+}
+
+.centerText h1 {
+    font-family: "DotGothic16", sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+}

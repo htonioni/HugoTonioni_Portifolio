@@ -8,6 +8,9 @@ function App() {
   return (
     <div>
       <NavBar />
+      <div className="centerText">
+        <h1>Front-end developer.web</h1>
+      </div>
     </div>
   );
 }
